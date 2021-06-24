@@ -18,3 +18,9 @@ $ get 3
 $ put 3 -c  "{"id": 3, "name":"Hawaiian", "isGlutenFree":false}"
 $ delete 3
 ```
+
+$ Docker
+```
+$ docker run -p 8000:80 -d tazgg/todo-api
+$ curl http://localhost:8000/Pizza/1
+```
