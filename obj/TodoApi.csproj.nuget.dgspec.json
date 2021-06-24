@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tazgg/coop/TodoApi/TodoApi.csproj": {}
+    "/Users/tazgg/Desktop/TodoApi/TodoApi.csproj": {}
   },
   "projects": {
-    "/Users/tazgg/coop/TodoApi/TodoApi.csproj": {
+    "/Users/tazgg/Desktop/TodoApi/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tazgg/coop/TodoApi/TodoApi.csproj",
+        "projectUniqueName": "/Users/tazgg/Desktop/TodoApi/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/Users/tazgg/coop/TodoApi/TodoApi.csproj",
+        "projectPath": "/Users/tazgg/Desktop/TodoApi/TodoApi.csproj",
         "packagesPath": "/Users/tazgg/.nuget/packages/",
-        "outputPath": "/Users/tazgg/coop/TodoApi/obj/",
+        "outputPath": "/Users/tazgg/Desktop/TodoApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tazgg/.nuget/NuGet/NuGet.Config"
