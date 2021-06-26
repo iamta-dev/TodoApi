@@ -2,6 +2,10 @@
 
 ## ref: https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/1-introduction
 
+# create app
+```
+$ dotnet new webapi -o TodoApi --no-https
+```
 # start app
 ```
 $ dotnet run
